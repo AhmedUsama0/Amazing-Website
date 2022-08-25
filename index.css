@@ -51,7 +51,7 @@ p{
 .header h1 span{
     color:#ff8b38;
 }
-/* ~ معناها اللى بعديه*/
+
 .header h1 ~ .lead{
     font-size:30px;
 }
@@ -65,7 +65,7 @@ p{
     margin:25px 0;
 }
 
-.header button{   /*المارجن مشتلغش الا لما ضفت كلاس الهيدر قبل البوتون*/
+.header button{   
     background:none;
     color:#FFF;
     border-color: #FFF;
@@ -175,7 +175,7 @@ form h2 span{
     height:110px;
     background-color:#333;
     text-align: center;
-    line-height: 110px;   /*line height equals to height to make the text in center vertically*/
+    line-height: 110px; 
     border-bottom: 1px solid #FFF;
     cursor: pointer;
     text-transform: uppercase;
